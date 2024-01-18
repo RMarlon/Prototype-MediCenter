@@ -294,3 +294,135 @@ article .news_resume{
 article .news_resume:last-child{
     margin-bottom: 20px;
 }
+
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1e1e1e;
+}
+
+.footer_menu{
+    display: flex;
+}
+
+.fm_1, .fm_2, .fm_3{
+    flex: 1;
+    color: #ffffff;
+    padding: 20px;
+}
+
+.fm_1 {
+    background-color: #39aae1;
+}
+
+.fm_2 {
+    background-color: #0079c7;
+}
+
+.fm_3 {
+    background-color: #2b4c99;
+}
+
+.fm_1_link, .fm_2_link, .fm_3_link {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    color: #ffffff;
+}
+
+.fm_1_link [name="arrow-forward"]{
+    margin-left: 10px;
+}
+.fm_2_link [name="arrow-forward"]{
+    margin-left: 10px;
+}
+
+.fm_3_link [name="arrow-forward"]{
+    margin-left: 10px;
+}
+
+.footer_area{
+    display: flex;
+}
+
+.footer_areaitem{
+    flex: 1;
+    color: #ffffff;
+}
+.flexColumn{
+    flex-direction: column;
+}
+
+footer .widget_title_text{
+    color: #ffffff;
+}
+
+.widget_footer_text{
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #5c5c5c;
+}
+
+.widget_body_footer{
+    padding:0 10px;
+}
+
+.widget_footer_info, .widget_footer_info_end, .widget-footer_contact{
+    font-size: 14px;
+    color: #5c5c5c;
+}
+.widget-footer_contact{
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    align-items: end;
+    justify-content: center;
+}
+.widget-footer_contact a{
+    color: #ffffff;
+}
+
+
+.widget_footer_post{
+    font-size: 14px;
+    margin: 20px 0;
+}
+
+.widget_footer_post a{
+    color: #0079c7;
+}
+
+.widget_footer_post_latest{
+    font-size: 14px;
+    margin: 20px 0;
+    color: #5c5c5c;
+}
+
+.widget_footer_post_latest [name="arrow-forward"]{
+    color: #ffffff;
+}
+
+.widget_footer_post_latest .white_post {
+    color: #ffffff;
+}
+
+.widget_footer_post_latest a{
+    color: #0079c7;
+}
+
+.footer_copy{
+    border-top: 1px solid #2c2c2c;
+    height: 40px;
+    line-height: 40px;
+    color: #5c5c5c;
+    font-size: 12px;
+    margin-top: 30px;
+}
+
+.footer_copy .copy_text{
+    color: #ffffff;
+}
+.footer_copy_svg img{
+    height: 10px;
+}
