@@ -8,7 +8,7 @@
 
 **Medi Center** is a web page of a clinic, where it was designed to use on desktop, tablet and mobile 🏥
 
-<img src="assests/imgaes/preview.jpg" alt="the image illustrates the behavior of the Medi center page on computer, mobile and tablet">
+<img src="./assests/imgaes/preview.jpg" alt="the image illustrates the behavior of the Medi center page on computer, mobile and tablet">
 
 ## 💊 Why, was the project done ? 
 
