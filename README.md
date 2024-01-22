@@ -2,7 +2,7 @@
   Medical clinical project 💉 🩺
 </h1>
 
-<h1> <a href=""> See the site</a></h1>
+<h1> <a href="https://rmarlon.github.io/Prototype-MediCenter/"> See the site</a></h1>
 
 ## ⚕️ About
 
